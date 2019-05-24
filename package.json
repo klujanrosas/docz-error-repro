@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  },
+  "devDependencies": {
+    "docz": "^1.2.0",
+    "docz-theme-default": "^1.2.0",
+    "prop-types": "^15.7.2"
+  }
+}
